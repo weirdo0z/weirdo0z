@@ -8,7 +8,7 @@
 * Currently working on the satellite operating system team
 * Learning Rust, UI/UX, AI, and more
 * Interested in contributing to open-source projects related to everything, especially frontend
-* Honestly, I can't be head-haunted because I'm just a high schooler
+* Honestly, I can't be headhunted because I'm just a high schooler
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,7 @@
 
 * Discord: weirdo_oz
 * Instagram: [weird0.oz](https://www.instagram.com/weird0.oz/)
-* [Email](<mailto:7h3w3irdo0z@proton.me>)
+* Email: [7h3w3irdo0z@proton.me](<mailto:7h3w3irdo0z@proton.me>)
 
 ## ⚡️ Fun Facts
 

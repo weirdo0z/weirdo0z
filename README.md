@@ -26,9 +26,9 @@
 * I like Science, Math, and Linguistics so I can speak English and Japanese, and I'm learning Spanish and Chinese
 * I like joking very much
 
-## 🤣 Joke (using JokeAPI)
+## 🤣 A Little Gift (using JokeAPI)
 
-[![Daily Joke](https://joke-2-image-e9zr.shuttle.app?blacklistFlags=nsfw,religious,political,racist,sexist)](https://github.com/weirdo0z/joke-2-image/)
+[![Joke](https://joke-2-image-e9zr.shuttle.app?blacklistFlags=nsfw,religious,racist,sexist)](https://github.com/weirdo0z/joke-2-image/)
 
 ---
 

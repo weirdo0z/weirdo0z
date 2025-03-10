@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages:** TypeScript, JavaScript, Rust, Python, Brainf*ck (jk), and some "completely understood" languages
+* **Languages:** TypeScript, JavaScript, Rust, Python, Brainf*ck (jk), and some "[completely understood](https://en.wikipedia.org/wiki/Dunning–Kruger_effect)" languages
 * **Frameworks:** React, Preact, Tauri, Actix, and some
 
 ## 🤝 Let's Connect

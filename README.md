@@ -28,7 +28,7 @@
 
 ## 🤣 Daily Joke (using JokeAPI)
 
-[![Daily Joke](https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist&type=single)]
+WIP
 
 ---
 

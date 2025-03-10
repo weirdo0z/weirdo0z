@@ -23,28 +23,12 @@
 
 ## ⚡️ Fun Facts
 
-* I like Science, Math, and Linguistics so I can speak English and Japanese, learning Spanish and Chinese
+* I like Science, Math, and Linguistics so I can speak English and Japanese, and I'm learning Spanish and Chinese
 * I like joking very much
 
 ## 🤣 Daily Joke (using JokeAPI)
 
-<p align="center">Loading a funny joke...</p>
-<p align="center"><a href="https://jokeapi.dev" target="_blank">Powered by JokeAPI</a></p>
-<script>
-fetch('https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist&type=single')
-.then(response => response.json())
-.then(data => {
-  if (data.type === 'single') {
-    document.querySelector('p:nth-of-type(1)').innerHTML = data.joke;
-  } else {
-    document.querySelector('p:nth-of-type(1)').innerHTML = data.setup + '<br><br>' + data.delivery;
-  }
-})
-.catch(error => {
-  console.error('Error fetching joke:', error);
-  document.querySelector('p:nth-of-type(1)').innerHTML = "Failed to load a joke. Please try again later.";
-});
-</script>
+[![Daily Joke](https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist&type=single)]
 
 ---
 

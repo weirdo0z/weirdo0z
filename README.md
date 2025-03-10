@@ -28,7 +28,7 @@
 
 ## 🤣 Daily Joke (using JokeAPI)
 
-WIP
+[![Daily Joke](https://weirdo0z.github.io/Jokes-2-Image/)](https://weirdo0z.github.io/Jokes-2-Image/)
 
 ---
 
